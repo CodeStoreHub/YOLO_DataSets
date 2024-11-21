@@ -3,4 +3,4 @@
 
 [钢筋数据集](https://hallo.codestore.pro/buy/5)
 
-[广东电网智慧现场作业挑战赛 高空作业及安全带佩戴数据集](https://hallo.codestore.pro/buy/6)
+[高空作业及安全带佩戴数据集](https://hallo.codestore.pro/buy/6)
